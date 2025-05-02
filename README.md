@@ -28,4 +28,4 @@ This project is the sole property of Ezrah Motine.
 Any form of unauthorized duplication would be liable to prosecution.
 
 ## Copyright 
-MIT Licence
+MIT Licence @2025
