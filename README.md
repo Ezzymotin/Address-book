@@ -23,8 +23,9 @@ This is a simple address book application that allows users to add, view, and st
 - Integrate local storage to persist contacts.
 
 ## Author(s)
-This project is the sole property of Ezrah Motine
-Any form of unauthorised infringement would be subjected to prosecution
+This project is the sole property of Ezrah Motine.
+
+Any form of unauthorized duplication would be liable to prosecution.
 
 ## Copyright 
 MIT Licence
